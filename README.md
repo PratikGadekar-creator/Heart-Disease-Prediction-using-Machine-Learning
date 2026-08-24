@@ -167,7 +167,7 @@ Heart-Disease-Prediction/
 First, clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/PratikGadekar-creator/Heart-Disease-Prediction-using-Machine-Learning>
 ```
 
 Move into the project folder:
