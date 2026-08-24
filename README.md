@@ -77,7 +77,7 @@ Since this is a classification problem, I experimented with several classificati
 
 I evaluated the models using **Accuracy and F1 Score**.
 
-After comparing the models, I used the **KNN model** for the Streamlit application.
+After comparing the models, I used the **SVM Model** for the Streamlit application.
 
 ---
 
@@ -148,9 +148,9 @@ Heart-Disease-Prediction/
 │   └── app.py
 │
 ├── models/
-│   ├── knn_heart_model.pkl
-│   ├── heart_scaler.pkl
-│   └── heart_columns.pkl
+│   ├── SVM.pkl
+│   ├── scaler.pkl
+│   └── columns.pkl
 │
 ├── screenshots/
 │   └── streamlit_app.png
